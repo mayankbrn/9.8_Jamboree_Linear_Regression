@@ -1,4 +1,4 @@
-# 9.8_Jamboree_Linear_Regression
+# Jamboree_Linear_Regression
 Business Case: Jamboree Education - Linear Regression
 
 # Jamboree Education - Linear Regression 📊
